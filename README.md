@@ -74,8 +74,9 @@ Clone the project
 ```bash
 git clone https://github.com/zuri-training/my_cms_TeamLapwing
 ```
-$ git clone 
+```
 $ cd my_cms_TeamLapwing
+```
 For the other process download the zipped file, and download unzip the project using any unzipping software. Unzip into any directory in your PC and get access to the files
 
 
