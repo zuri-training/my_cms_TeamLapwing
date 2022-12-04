@@ -8,6 +8,7 @@ This application is designed to assist bloggers, individuals and business with l
 
 ## Authors
 
+- [@Directormichaels](https://www.github.com/Directormichaels) Fullstack Developer
 - [@Oddisy](https://www.github.com/Oddisy) Frontend Developer
 - [@Davidmilly](https://www.github.com/davidmilly) Frontend Developer
 - [@nifemi2005](https://www.github.com/nifemi2005) Frontend Developer
