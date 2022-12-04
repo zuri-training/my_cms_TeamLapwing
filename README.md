@@ -9,6 +9,7 @@ This application is designed to assist bloggers, individuals and business with l
 ## Authors
 
 - [@Directormichaels](https://www.github.com/Directormichaels) Fullstack Developer
+- [@Abbyaigbe](https://www.github.com/Abbyaigbe) Frontend Developer
 - [@Oddisy](https://www.github.com/Oddisy) Frontend Developer
 - [@Davidmilly](https://www.github.com/davidmilly) Frontend Developer
 - [@nifemi2005](https://www.github.com/nifemi2005) Frontend Developer
@@ -24,7 +25,6 @@ This application is designed to assist bloggers, individuals and business with l
 - [@DapoDapo123](https://www.github.com/DapoDapo123) Product Design
 - [@Saliualiu](https://www.github.com/Saliualiu) Product Design
 - [@lastmarine1](https://www.github.com/lastmarine1) Product Design
-- [@Abbyaigbe](https://www.github.com/Abbyaigbe) Product Design
 
 ## Contributing
 
