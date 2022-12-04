@@ -24,6 +24,7 @@ This application is designed to assist bloggers, individuals and business with l
 - [@DapoDapo123](https://www.github.com/DapoDapo123) Product Design
 - [@Saliualiu](https://www.github.com/Saliualiu) Product Design
 - [@lastmarine1](https://www.github.com/lastmarine1) Product Design
+- [@Abbyaigbe](https://www.github.com/Abbyaigbe) Product Design
 
 ## Contributing
 
