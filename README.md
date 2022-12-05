@@ -1,5 +1,5 @@
 
-# BUILDA
+# Project Name(my_cms)
 
 A website that is used for content management, allowing multiple contributors to create, edit and publish. Content in it, is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.
 
