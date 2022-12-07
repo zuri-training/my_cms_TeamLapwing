@@ -1,0 +1,1 @@
+<h1> Hello World </h1><?php /**PATH C:\wamp\www\example-app\resources\views/welcome.blade.php ENDPATH**/ ?>
