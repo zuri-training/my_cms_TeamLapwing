@@ -1,5 +1,3 @@
-# TeamLapwing_mypatch
-A platform that allows users spin up a basic website, assigned to TeamLapwing
 ## Project Structure
 The directory structure of the project looks like this:
 ```
@@ -35,3 +33,24 @@ The directory structure of the project looks like this:
 ├── .gitignore                <- List of files ignored by git
 └── README.md
 ```
+
+=======
+- Run `composer install` or ```php composer.phar install```
+- Run `php artisan key:generate` 
+- Run `php artisan migrate`
+- Run `php artisan db:seed` to run seeders, if any.
+- Run `php artisan serve`
+
+##### You can now access your project at localhost:8000 :)
+
+## If for some reason your project stop working do these:
+- `composer install`
+- `php artisan migrate`
+
+
+
+For the other process download the zipped file, and download unzip the project using any unzipping software. Unzip into any directory in your PC and get access to the files
+
+
+
+
