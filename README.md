@@ -1,6 +1,8 @@
 # TeamLapwing_mypatch
 A platform that allows users spin up a basic website, assigned to TeamLapwing
 ## Project Structure
+The directory structure of the project looks like this:
+```
 ├── apps                   <- holds the base code for Builda(my_cms) 
 |      |
 |      └── console         <- contains all the project artisan commands.
@@ -32,3 +34,4 @@ A platform that allows users spin up a basic website, assigned to TeamLapwing
 |
 ├── .gitignore                <- List of files ignored by git
 └── README.md
+```
