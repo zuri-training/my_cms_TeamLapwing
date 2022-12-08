@@ -83,12 +83,12 @@ For the other process download the zipped file, and download unzip the project u
 [Database schema](https://drawsql.app/teams/teamlapwing/diagrams/database-schema)
 ## Link to mood board
 
-[Mood Board]()
+[Mood Board](https://www.figma.com/file/iKGBXkuYVtosdZCMGT1tfb/MOODBOARD-%26-DESIGN-SKETCH%2F-TEAMLAPWING?node-id=0%3A1&t=I3cmObPcmEOWFdoA-1)
 
 
 ## Link to design sketch
 
-[Design Sketch]()
+[Design Sketch](https://www.figma.com/file/qnheylpBXbQmQ2vkhQkBjk/DESIGN-SKETCH%2F-TEAMLAPWING?node-id=0%3A1&t=SCH6G0SsfRsh286p-1)
 
 
 
