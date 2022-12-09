@@ -1,4 +1,3 @@
-
 # BUILDA
 
 A website that is used for content management, allowing multiple contributors to create, edit and publish. Content in it, is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.
@@ -14,6 +13,7 @@ This application is designed to assist bloggers, individuals and business with l
 - [@ig-matrix](https://www.github.com/ig-matrix) Frontend
 - [@faves1](https://www.github.com/faves1) Backend Developer
 - [@Nne85](https://www.github.com/Nne85) Backend Developer
+- [@Directormichaels](https://github.com/Directormichaels)Fullstack Developer
 - [@Hasoye](https://www.github.com/Hasoye) Product Design 
 - [@designedbyzah](https://www.github.com/designedbyzah) Product Design
 - [@Adexgolden](https://www.github.com/Adexgolden) Product Design
@@ -150,7 +150,3 @@ The directory structure of the project looks like this:
 
 
 For the other process download the zipped file, and download unzip the project using any unzipping software. Unzip into any directory in your PC and get access to the files
-
-
-
-

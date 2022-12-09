@@ -1,1 +1,0 @@
-<h1> Hello World </h1><?php /**PATH C:\Users\USER\Desktop\project\crud\resources\views/welcome.blade.php ENDPATH**/ ?>
