@@ -1,156 +1,66 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# BUILDA
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-A website that is used for content management, allowing multiple contributors to create, edit and publish. Content in it, is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.
+## About Laravel
 
-This application is designed to assist bloggers, individuals and business with little to no experience to build websites.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-## Authors
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-- [@Oddisy](https://www.github.com/Oddisy) Frontend Developer
-- [@Davidmilly](https://www.github.com/davidmilly) Frontend Developer
-- [@nifemi2005](https://www.github.com/nifemi2005) Frontend Developer
-- [@ig-matrix](https://www.github.com/ig-matrix) Frontend
-- [@faves1](https://www.github.com/faves1) Backend Developer
-- [@Nne85](https://www.github.com/Nne85) Backend Developer
-- [@Hasoye](https://www.github.com/Hasoye) Product Design 
-- [@designedbyzah](https://www.github.com/designedbyzah) Product Design
-- [@Adexgolden](https://www.github.com/Adexgolden) Product Design
-- [@Save9y2jk](https://www.github.com/Save9y2jk) Product Design
-- [@Ayanfeoluwa27](https://www.github.com/Ayanfeoluwa27) Product Design
-- [@Tewotolu](https://www.github.com/Tewotolu) Product Design
-- [@DapoDapo123](https://www.github.com/DapoDapo123) Product Design
-- [@Saliualiu](https://www.github.com/Saliualiu) Product Design
-- [@lastmarine1](https://www.github.com/lastmarine1) Product Design
+## Learning Laravel
+
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+
+## Laravel Sponsors
+
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
+### Premium Partners
+
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
 ## Contributing
 
-Contributions are always welcome!
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-See `contributing.md` for ways to get started.
+## Code of Conduct
 
-Please adhere to this project's `code of conduct`.
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
+## Security Vulnerabilities
 
-## Features
-
-Authenticated:
-- Authorized users can to create more pages.
-- Authorized users can make as much customization as possible.
-- Authorized users can add Social media links.
-- Authorized users Change templates and more.
-- Authorized users can access the backend of created websites.
-Unauthenticated:
-- Unauthorized can sign up for an account.
-- Unauthorized can access documentation.
-- Unauthorized can setup a website by filling some information.
-- Unauthorized user can view basic information about the built platform.
-- Unauthorized can browse through templates.
-
-## Tech Stack
-
-**Frontend:** Html, Css, Javascript, React Bootstrap
-
-**Backend:** PHP, SQL
-
-
-## Documentation
-
-[Documentation](https://docs.google.com/document/d/1aKMYtaRfMy-c7f18DOmX_mjUz4JnhUe35yrg9enxZCI/edit)
-
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-git clone https://github.com/zuri-training/my_cms_TeamLapwing
-```
-$ git clone 
-$ cd my_cms_TeamLapwing
-For the other process download the zipped file, and download unzip the project using any unzipping software. Unzip into any directory in your PC and get access to the files
-
-
-
-## Link to Data base Schema
-
-[Database schema](https://drawsql.app/teams/teamlapwing/diagrams/database-schema)
-## Link to mood board
-
-[Mood Board](https://www.figma.com/file/iKGBXkuYVtosdZCMGT1tfb/MOODBOARD-%26-DESIGN-SKETCH%2F-TEAMLAPWING?node-id=0%3A1&t=I3cmObPcmEOWFdoA-1)
-
-
-## Link to design sketch
-
-[Design Sketch](https://www.figma.com/file/qnheylpBXbQmQ2vkhQkBjk/DESIGN-SKETCH%2F-TEAMLAPWING?node-id=0%3A1&t=SCH6G0SsfRsh286p-1)
-
-
-
-
-
-
-
-
-
-## Project Structure
-The directory structure of the project looks like this:
-```
-├── apps                   <- holds the base code for Builda(my_cms) 
-|      |
-|      └── console         <- contains all the project artisan commands.
-|      └── exceptions      <- Builda(my_cms) exception handling files
-|      └── http            <- holds different filters, requests, and controllers.
-|      └── models          <- contains the model classes
-|      └── providers       <-  contains all of the service providers for Builda(my_cms).
-|
-├── bootstrap              <- contains all the bootstrapping scripts
-|
-├── configs                <- Builda(my_cms) configuration file
-|
-├── database               <- Project database files
-|
-├── public                 <- starts project and maintains other necessary
-|                              files such as JavaScript, CSS, and images of the project.
-|
-├── resources              <- holds all the Sass files, language (localization) files, and templates.
-|
-├── routes                 <- contains all the definition files for routing, 
-|                              such as console.php, api.php, channels.php, etc.
-|
-├── storage                <- holds the session files, cache, compiled templates, 
-|                             and miscellaneous files generated.
-|
-├── tests                  <- holds all the test cases.
-|
-├── .env.example              <- Example of file for storing private environment variables
-|
-├── .gitignore                <- List of files ignored by git
-└── README.md
-```
-
-=======
-- Run `composer install` or ```php composer.phar install```
-- Run `php artisan key:generate` 
-- Run `php artisan migrate`
-- Run `php artisan db:seed` to run seeders, if any.
-- Run `php artisan serve`
-
-##### You can now access your project at localhost:8000 :)
-
-## If for some reason your project stop working do these:
-- `composer install`
-- `php artisan migrate`
-
-
-
-For the other process download the zipped file, and download unzip the project using any unzipping software. Unzip into any directory in your PC and get access to the files
-
-
-
-
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
