@@ -66,7 +66,7 @@
           </div>
           <button type="submit" class="btn1"><div class="lg">Register</div></button>
         </div>
-        <div class="already">Already have an account?<button type="submit" class="sign">Login</button></div>
+        <div class="already">Already have an account?<button type="submit" class="sign"><a href="{{route('login')}}">Login</a></button></div>
         <div class="ready">
           <div class="hor1"></div>
          <div class="hor2"> or login with</div>
