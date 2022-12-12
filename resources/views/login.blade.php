@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Login</title>
     <link rel="stylesheet" href="{{ asset('css/login.css') }}" />
   </head>
   <body>
@@ -55,7 +55,7 @@
           </div>
           <div class="1"><button type="submit" class="btn1">Login</button></div>
         </div>
-        <div class="already">Don't have an account?<a href="">Signup</a></div>
+        <div class="already">Don't have an account?<a href="{{route('signup')}}">Signup</a></div>
         <div class="ready">
           <div class="hor1"></div>
          <div class="hor2"> or login with</div>

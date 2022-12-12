@@ -10,7 +10,10 @@ body{
     font-family: 'Manrope', sans-serif;
 }
 
-
+.logo-text a {
+    text-decoration: none;
+    color:black;
+}
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -48,14 +51,16 @@ body{
     padding-right: 20px;
 }
 
-.bar-2 > div{
+.bar-2 > div, .bar-2 div a{
     text-transform: capitalize;
     font-size: 17px;
     padding-right: 20px;
+    text-decoration: none;
+    color: black;
 
 } 
 
-.bar-2 >button{
+.bar-2 >button, .bar-2 button a{
     width: 144px; 
     height: 30px;
     background: #2E3ED1;
@@ -63,6 +68,7 @@ body{
     border: none;
     color: #fff;
     padding: 5px;
+    text-decoration: none;
 
 
 }
