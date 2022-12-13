@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mali:ital@1&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+header {
+  margin: 10px;
+  padding: 20px;
+}
+
+/*logo and builda container  */
+.head {
+  padding-left: 50px;
+  display: flex;
+}
+
+/* styling  BUILDA  */
+.build {
+  font-family: "Mali", sans-serif;
+  position: relative;
+  left: 5px;
+  top: 10px;
+  font-size: 35px;
+  letter-spacing: 0.8px;
+}
+
+/* styling the text1  */
+.text1 {
+  font-size: 25px;
+  position: relative;
+  top: 100px;
+  left: 500px;
+}
+
+.tex1 {
+  font-size: 13px;
+  position: relative;
+  top: 110px;
+  left: 650px;
+}
+
+/* styling the left & right arrow */
+.larrow {
+  font-size: 12px;
+  opacity: 0.3;
+  color: black;
+}
+
+.rarrow {
+  font-size: 12px;
+  color: white;
+}
+.btn1 {
+  padding: 8px 23px;
+  color: white;
+  border: 0.3px solid #545454;
+  background-color: rgb(11, 11, 181);
+  border-radius: 3px;
+  outline: 0px;
+}
+
+.Next {
+  margin-right: 5px;
+}
+
+/* styling the back text */
+.back {
+  margin-right: 100px;
+  opacity: 0.6;
+  margin-left: 5px;
+}
+
+/* styling the container */
+.container {
+  display: flex;
+}
+/* styling the search input */
+input {
+  padding: 10px;
+  width: 320px;
+  text-align: center;
+  outline: 0px;
+  margin-right: 20px;
+}
+
+/* styling the arrows and search */
+.container1 {
+  position: absolute;
+  top: 300px;
+  left: 400px;
+}
+
+.fa {
+  position: relative;
+  top: 5px;
+  left: 33px;
+  opacity: 0.3;
+}
