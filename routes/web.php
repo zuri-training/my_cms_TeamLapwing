@@ -44,6 +44,6 @@ Route::get('step4', function () {
 Route::get('templatechange', function () {
     return view('changetemplate');
 });
-Route::get('step4', function () {
-    return view('onboarding4');
+Route::get('templates', function () {
+    return view('templates');
 });
