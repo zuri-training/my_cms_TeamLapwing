@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BUILDA</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{asset('css/templates.css')}}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -13,7 +13,7 @@
     <div class="">
         <div class="lg:flex lg:items-center lg:justify-between lg:px-[100px] md:px-20 sm:px-14 px-6">
             <div class="lg:flex items-center lg:w-[554px] justify-between lg:h-[120px]">
-                <img src="LOGO.png" alt="logo" class="md:w-[199px] sm:w-[150px] w-[90px] lg:pt-0 sm:pt-10 pt-5 lg:pr-4 lg:border-r border-r-[#2E3ED1]">
+                <img src="{{URL('images/All-templates/LOGO.png')}}" alt="logo" class="md:w-[199px] sm:w-[150px] w-[90px] lg:pt-0 sm:pt-10 pt-5 lg:pr-4 lg:border-r border-r-[#2E3ED1]">
                 <div class="lg:flex lg:justify-between sm:text-center text-center lg:text-start mt-3 sm:mt-4 md:mt-0 lg:mt-0">
                     <h5 class="lg:pl-4 lg:pr-[60px] font-semibold lg:text-[16px] leading-7 sm:text-[16px] text-[14px]">Home</h5>
                     <h5 class="lg:pr-[60px] sm:text-[16px] text-[14px] font-semibold lg:text-[16px] leading-7 py-2 sm:py-3 md:py-0 lg:py-0">Templates</h5>
@@ -29,7 +29,7 @@
         <hr class="lg:mx-[100px] md:mx-20 sm:mx-14 mx-6">
         <div class="lg:px-[100px] md:px-20 sm:px-14 px-6 md:flex md:items-center justify-between lg:py-9 md:py-7 sm:py-6 py-5">
             <div>
-                <img src="Ellipse 2.png" alt="user" class="bg-white w-[50px] mx-auto">
+                <img src="{{URL('images/All-templates/Ellipse 2.png')}}" alt="user" class="bg-white w-[50px] mx-auto">
                 <p class="text-[#7C7C7C] text-[16px] leading-7 md:text-start sm:text-center text-center underline">User Profile</p>
             </div>
             <div>
@@ -183,7 +183,7 @@
         <div class="lg:pt-44 lg:pb-40 2xl:px-[277px] md:mx-20 sm:mx-10 mx-6 lg:flex lg:items-center lg:justify-between">
             <div class="flex items-center">
                 <div class="border border-[#000000] py-[9.6px] px-[11.67px] md:mr-10 sm:mr-8 mr-3">
-                    <img src="Icon-left.png" alt="Icon-left" class=" w-[7.33px] h-[13px]">
+                    <img src="{{URL('images/All-templates/Icon-left.png')}}" alt="Icon-left" class=" w-[7.33px] h-[13px]">
                 </div>
                 <span class="md:pr-10 sm:pr-8 pr-3 md:text-[24px] text-[20px] md:leading-8 font-semibold">1</span>
                 <span class="md:pr-10 sm:pr-8 pr-3 md:text-[24px] text-[20px] md:leading-8 font-semibold">2</span>
@@ -192,7 +192,7 @@
                 <span class="md:text-[24px] md:leading-8 font-semibold text-[20px]">5........</span>
                 <span class="md:text-[24px] md:leading-8 text-[20px] font-semibold">64</span>
                 <div class="border border-[#000000] py-[9.6px] px-[11.67px] md:ml-10 sm:ml-8 ml-3">
-                    <img src="Icon-right.png" alt="Icon-right" class="w-[7.33px] h-[13px]">
+                    <img src="{{URL('images/All-templates/Icon-right.png')}}" alt="Icon-right" class="w-[7.33px] h-[13px]">
                 </div>
             </div>
             <div class="flex items-center gap-4">
