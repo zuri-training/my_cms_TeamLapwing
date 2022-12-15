@@ -28,5 +28,16 @@ Route::post('/register', [AuthController::class, 'register']);
 Route::post('/loginUser', [AuthController::class, 'loginUser']);
 
 //test_route
-Route::get('set', function(){return view('Ready-set-up');});
+Route::get('step1', function(){return view('onboarding1');});
+Route::get('step2', function(){return view('onboarding2');});
+Route::get('step3', function(){return view('onboarding3');});
+Route::get('step4', function(){return view('onboarding4');});
+Route::get('templates', function(){return view('templates');});
+Route::get('changetemplate', function(){return view('changetemplate');});
 Route::get('dashboard', function(){return view('dashboard');});
+Route::get('set', function(){return view('Ready-set-up');});
+// Route::get('set', function(){return view('Ready-set-up');});
+// Route::get('set', function(){return view('Ready-set-up');});
+// Route::get('set', function(){return view('Ready-set-up');});
+// Route::get('set', function(){return view('Ready-set-up');});
+
