@@ -24,7 +24,7 @@
       </div>
       
       <div class="siblingform">
-        <form action="">
+        <form action="/register" method="post">
         <div class="fatherform">Create an account</div>
         <form>
         <div class="parentform">
@@ -62,6 +62,7 @@
               name="password"
               required
             />
+            @csrf
             <div class="fgt"><input class="check" id="check" required type="checkbox"> I agree with the <a href="">terms and conditions</a></div>
           </div>
           <button type="submit" class="btn1"><div class="lg">Register</div></button>
