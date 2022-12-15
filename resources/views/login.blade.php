@@ -24,7 +24,7 @@
       </div>
       
       <div class="siblingform">
-        <form action="">
+        <form action="/loginUser" method="post">
         <div class="fatherform">Login</div>
         <form>
         <div class="parentform">
@@ -51,6 +51,7 @@
               name="password"
               required
             />
+            @csrf
             <div class="fgt"> <a href="">Forgotten password?</a></div>
           </div>
           <div class="1"><button type="submit" class="btn1">Login</button></div>
