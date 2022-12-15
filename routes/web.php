@@ -26,3 +26,6 @@ Route::get('/signup', [AuthController::class, 'signup'])->name('signup');
 Route::get('login', [AuthController::class, 'login'])->name('login');
 Route::post('/register', [AuthController::class, 'register']);
 Route::post('/loginUser', [AuthController::class, 'loginUser']);
+Route::get('dashboard', function(){
+    return view('dashboard');
+});
