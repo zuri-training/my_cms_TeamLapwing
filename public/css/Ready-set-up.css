@@ -8,6 +8,7 @@
 
 body {
   font-family: "Manrope", sans-serif;
+  background-color: white;
 }
 
 header {
@@ -33,47 +34,66 @@ header {
 
 /* styling the text1  */
 .text1 {
-  font-size: 25px;
+  font-size: 50px;
   position: relative;
   top: 50px;
-  left: 210px;
   font-weight: 900;
+  text-align: center;
 }
 
 .text2 {
-  position: relative;
-  left: 290px;
-  top: 90px;
   font-weight: 100;
 }
 
 .text3 {
-  position: relative;
-  left: 290px;
-  top: 170px;
   font-weight: 100;
 }
 
 /* styling the left & right arrow */
 .larrow {
   position: relative;
-  left: 90px;
+  left: 240px;
   top: 20px;
-  font-size: 10px;
+  font-size: 15px;
   opacity: 0.5;
   color: black;
+  border: none;
+  background-color: white;
+  cursor: pointer;
 }
 
 .arr {
   font-size: 12px;
-  position: relative;
-  left: 240px;
-  top: 125px;
+  position: absolute;
+  left: -50px;
+  top: 3px;
 }
 
 .x {
   font-size: 12px;
+  position: absolute;
+  left: -50px;
+  top: 3px;
+}
+/* New styling for button */
+.bt-temp {
+  margin: 0;
+  padding: 0px;
+  border: none;
+  background-color: white;
+  cursor: pointer;
   position: relative;
-  left: 240px;
-  top: 205px;
+  left: 490px;
+  top: 150px;
+}
+/* New styling for button  */
+.bt-temp1 {
+  margin: 0;
+  padding: 0px;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  position: relative;
+  left: 287px;
+  top: 270px;
 }
