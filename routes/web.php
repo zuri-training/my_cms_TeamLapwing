@@ -29,3 +29,4 @@ Route::post('/loginUser', [AuthController::class, 'loginUser']);
 
 //test_route
 Route::get('set', function(){return view('Ready-set-up');});
+Route::get('dashboard', function(){return view('dashboard');});
