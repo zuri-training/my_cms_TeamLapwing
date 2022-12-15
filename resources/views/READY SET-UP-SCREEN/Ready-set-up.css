@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mali:ital@1&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+  background-color: white;
+}
+
+header {
+  margin: 10px;
+  padding: 20px;
+}
+
+/*logo and builda container  */
+.head {
+  padding-left: 50px;
+  display: flex;
+}
+
+/* styling  BUILDA  */
+.build {
+  font-family: "Mali", sans-serif;
+  position: relative;
+  left: 5px;
+  top: 10px;
+  font-size: 35px;
+  letter-spacing: 0.8px;
+}
+
+/* styling the text1  */
+.text1 {
+  font-size: 50px;
+  position: relative;
+  top: 50px;
+  font-weight: 900;
+  text-align: center;
+}
+
+.text2 {
+  font-weight: 100;
+}
+
+.text3 {
+  font-weight: 100;
+}
+
+/* styling the left & right arrow */
+.larrow {
+  position: relative;
+  left: 240px;
+  top: 20px;
+  font-size: 15px;
+  opacity: 0.5;
+  color: black;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+.arr {
+  font-size: 12px;
+  position: absolute;
+  left: -50px;
+  top: 3px;
+}
+
+.x {
+  font-size: 12px;
+  position: absolute;
+  left: -50px;
+  top: 3px;
+}
+/* New styling for button */
+.bt-temp {
+  margin: 0;
+  padding: 0px;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  /* Copied from text2 and edited */
+  position: relative;
+  left: 490px;
+  top: 150px;
+}
+/* New styling for button  */
+.bt-temp1 {
+  margin: 0;
+  padding: 0px;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  /* Copied from text3 and edited */
+  position: relative;
+  left: 287px;
+  top: 270px;
+}
